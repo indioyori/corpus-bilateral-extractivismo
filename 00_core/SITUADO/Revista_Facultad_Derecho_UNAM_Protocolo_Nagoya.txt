@@ -1,0 +1,17 @@
+url: https://www.revistas.unam.mx/index.php/rfdm/article/view/69422
+
+title: Just a moment...
+
+# www.revistas.unam.mx
+
+## Performing security verification
+
+This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
+
+## Verification successful. Waiting for www.revistas.unam.mx to respond
+
+Enable JavaScript and cookies to continue
+
+Ray ID: `a111ff36bfb82d86`
+
+Performance and Security by CloudflarePrivacy
