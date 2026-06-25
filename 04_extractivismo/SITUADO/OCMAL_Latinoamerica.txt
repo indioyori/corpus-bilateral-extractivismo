@@ -1,0 +1,208 @@
+url: https://www.ocmal.org/category/latinoamerica/
+
+title: Latinoamerica | Observatorio de Conflictos Mineros de América Latina
+
+# Latinoamerica
+
+Bajo el título «Minería metálica en América Latina. Conflictividad ecosocial y ofensiva corporativa en la era del caos global”, OMAL y Paz con Dignidad, publicaron de manera reciente uno de los análisis más completos y rigurosos sobre el avance del extractivismo minero en la región.
+
+El informe es el resultado de un trabajo colectivo que contó con la participación directa de organizaciones y referentes de distintos países, entre ellos el Observatorio Latinoamericano de Conflictos Ambientales (OLCA), cuyo aporte no se limitó al capítulo sobre Chile, sino que atraviesa el espíritu crítico y la perspectiva territorial del documento en su conjunto.
+
+El documento parte de una premisa central: el llamado «capitalismo verde oliva y digital», un relato que promete descarbonización, modernización e inclusión, pero que en la práctica es una nueva máscara para una vieja lógica de acumulación y despojo. El informe demuestra que la supuesta transición energética, lejos de reducir el extractivismo, ha convertido al litio, el cobre, el cobalto y las tierras raras en botines estratégicos de una guerra económica global, donde las grandes potencias y sus corporaciones presionan a los países del Sur para ampliar la frontera minera. En nueve estudios de caso que recorren desde México hasta Argentina, pasando por Centroamérica, Colombia, Perú y Chile, el texto cartografía con precisión los actores corporativos, los marcos jurídicos que los favorecen y las resistencias comunitarias que se les oponen.
+
+En el caso de Chile, respecto al capítulo «Vanguardia verde oliva y digital bajo la sombra pinochetista», el informe revela cómo el país se ha posicionado como plataforma privilegiada de la nueva fiebre minera, montado sobre la arquitectura legal heredada de la dictadura de Pinochet: la Constitución de 1980, el Código Minero y el Código de Aguas. Así, con una cartera de 59 nuevos proyectos de inversión para el período 2025-2034 que suman más de 104.500 millones de dólares, Chile profundiza su dependencia primario-exportadora mientras el gobierno de Boric navega entre una retórica ambientalista y la firma de acuerdos con la Unión Europea que abren la puerta a la explotación de litio, cobre y tierras raras.
+
+Conforme a lo anterior, la conflictividad socioambiental sigue creciendo: desde las zonas áridas del norte con severo estrés hídrico, pasando por los salares altoandinos donde habitan las comunidades Licanantay y Colla, hasta el centro-sur del país, donde la empresa canadiense Aclara Resources intenta instalar un megaproyecto de tierras raras en los cerros de Penco, un territorio sin tradición minera, que fue rechazado por el 99% de los vecinos en la consulta ciudadana realizada en esa comuna, siendo también la primera sobre minería realizada en Chile.
+
+El informe cierra con un capítulo de conclusiones y alternativas construidas desde una perspectiva internacionalista, apostando por una impugnación integral del modelo extractivista y del capitalismo verde que lo sustenta.
+
+La Coordinación de este informe estuvo a cargo de OMAL-Paz con Dignidad, sumando las colaboraciones de la Red Mexicana de Afectadas/os por la Minería (REMA), el Observatorio de Industrias Extractivas (OIE), Alianza Centroamericana Frente a la Minería (ACAFREMIN), CooperAcción, Observatorio Latinoamericano de Conflictos Ambientales (OLCA), y Fundación Ambiente y Recursos Naturales (FARN).
+
+Leer / Bajar el informe: https://omal.info/wp-content/uploads/2026/05/OMAL\_Mineria-metalica\_AL.pdf
+
+24/04/2026  
+ El mercado de litio lleva dos años en caída libre de precios. Eso podría estar a punto de cambiar — y de manera estructural.
+
+Canaccord Genuity proyecta que el mercado global de litio entrará en déficit en algún punto del ciclo actual y que esa brecha se extenderá hasta 2035. La lectura implícita es poderosa: la sobreoferta que destruyó precios en 2023 y 2024 no fue una corrección permanente. Fue el último momento barato antes de que la demanda de baterías absorba todo lo que el mundo puede producir.
+
+Para los productores latinoamericanos que sobrevivieron la compresión de márgenes, la señal es clara. El problema ya no es si el litio recuperará valor. El problema es quién estará en condiciones de capitalizar el déficit cuando llegue.  
+ Por qué el déficit tardó tanto en llegar — y por qué es más profundo de lo que parece
+
+La narrativa de 2023 fue la sobreoferta china. Los productores de litio de Jiangxi, Sichuan y Qinghai inundaron el mercado con carbonato de litio a precios que ningún proyecto del Triángulo Sudamericano podía sostener. El precio del carbonato de litio grado batería colapsó desde máximos de US$80,000 por tonelada en 2022 hasta niveles cercanos a US$10,000 en 2024. Proyectos que tres años antes parecían imparables empezaron a entrar en pausa o revisión.
+
+Lo que Canaccord señala ahora es que esa liquidez china fue temporal y que el mercado subestimó sistemáticamente cuánto litio necesitará la electrificación global. Los vehículos eléctricos son el driver más visible, pero no el único. El almacenamiento estacionario de energía —baterías conectadas a redes eléctricas nacionales— está creciendo a tasas que pocos modelos de demanda incorporaban hace dos años. La India, que apenas arranca su transición hacia EVs masivos, añadirá presión de demanda que el mercado no ha comenzado a descontar.
+
+El déficit que Canaccord proyecta hasta 2035 no es una línea plana. Es una brecha que se agranda conforme la demanda de baterías escala y los proyectos nuevos tardan entre cinco y diez años en entrar en producción. Esa geometría es el argumento más sólido para que los precios del litio se recuperen — y que la recuperación no sea un pico especulativo sino un ciclo largo.  
+ El cuello de botella no es el recurso: es el capital y el tiempo
+
+Canaccord es explícito: el mercado requerirá inversión “significativa” en nueva oferta. Esa palabra — significativa — esconde la magnitud del problema. Los analistas estiman que cubrir el déficit proyectado exigirá llevar a producción una cantidad de minas nuevas que, bajo el ritmo actual de aprobaciones, permisos y financiamiento, resulta estructuralmente difícil de alcanzar antes de la segunda mitad de la próxima década.
+
+El problema no es geológico. El litio existe en cantidades suficientes. El Triángulo del Litio —Argentina, Bolivia, Chile— concentra más del 50% de los recursos conocidos del mundo. México tiene reservas que el Servicio Geológico Mexicano estima en 243 millones de toneladas, las más grandes del planeta según algunas mediciones. El recurso está ahí. Lo que no está es la infraestructura, el capital comprometido y, en varios casos, el marco regulatorio que le dé certeza a los inversionistas.
+
+Un proyecto minero de litio de escala relevante — del tipo que puede mover la aguja en el balance global — necesita entre cinco y diez años desde el descubrimiento hasta la primera tonelada de producción comercial. Si el déficit se anticipa para el inicio de la próxima década, las decisiones de inversión que cubrirán esa brecha deben tomarse ahora, o ya deberían haberse tomado. Ese es el mensaje que Canaccord le está enviando al mercado: el reloj no espera.  
+ El Triángulo Sudamericano: ventaja posicional con brechas de ejecución
+
+Chile y Argentina son hoy los actores mejor posicionados para capturar el valor del ciclo largo. Chile opera el Salar de Atacama con costos de producción entre los más bajos del mundo, y sus productores —SQM, Codelco a través de su asociación estratégica, y Albemarle— llevan décadas construyendo infraestructura y relaciones institucionales. La discusión política sobre la “nacionalización parcial” del litio chileno generó ruido en 2023, pero la industria ha absorbido ese ajuste sin perder competitividad estructural.
+
+Argentina opera bajo una lógica diferente. El Régimen de Incentivo para Grandes Inversiones (RIGI), vigente hasta 2027, está funcionando como catalizador para proyectos que necesitaban certeza fiscal para avanzar. Las provincias de Jujuy, Salta y Catamarca concentran la mayor actividad exploratoria de la región. Empresas como Lithium Americas, Posco y Ganfeng han avanzado sus posiciones en el país precisamente porque el RIGI redujo el riesgo regulatorio percibido. Si Argentina sostiene ese entorno hasta que la demanda global empiece a presionar los precios al alza, estará entre los grandes beneficiarios del ciclo que Canaccord anticipa.
+
+Bolivia sigue siendo la excepción que confirma la regla. Con las reservas más grandes del mundo en el Salar de Uyuni, el país lleva más de una década sin lograr producción comercial a escala. El modelo estatal ha demostrado ser un cuello de botella severo, y ninguna señal de precio — por alta que sea — parece suficiente para resolver los problemas de gobernanza e infraestructura que frenan el proyecto. Bolivia producirá litio eventualmente, pero no en el ventana de tiempo que el déficit proyectado requiere.  
+ China no se retira: reposiciona
+
+Leer el déficit proyectado sin considerar la variable china sería un error de análisis. China no saturó el mercado por accidente. Lo hizo con una lógica deliberada: destruir la rentabilidad de proyectos rivales mientras aseguraba su propia cadena de suministro. CATL, BYD y los grandes productores chinos de baterías llevan años comprando o asegurando contratos de largo plazo con productores en Chile, Argentina y Australia. Cuando el déficit llegue, China ya tendrá acceso garantizado a una parte sustancial de la oferta disponible.
+
+Eso cambia el problema para el resto del mundo. No basta con que exista litio suficiente en términos globales. La pregunta relevante es cuánto litio estará disponible para cadenas de suministro fuera de la órbita china — particularmente para la industria automotriz norteamericana y europea, que operan bajo presión creciente para diversificar su dependencia de materiales críticos procesados en China.
+
+Aquí entra con fuerza la agenda de minerales críticos de Estados Unidos y la Unión Europea. El marco USMCA tiene implicaciones directas para el litio producido en México y el Triángulo Sudamericano que pueda integrarse a cadenas de valor norteamericanas. Un proyecto de litio en Argentina o Chile que pueda certificar procesamiento fuera de China tiene un premio de valor — tanto en precio como en acceso a financiamiento — que no existía hace cinco años.  
+ Lo que el ciclo largo implica para inversionistas y productores
+
+La proyección de Canaccord no es una recomendación de compra. Es un diagnóstico de estructura de mercado. Y ese diagnóstico tiene implicaciones concretas para distintos actores.
+
+Para los productores en operación — SQM, Albemarle, Allkem, los proyectos argentinos que ya producen — la señal es que aguantar la presión de precios actual tiene sentido si el balance es largo. Los márgenes comprimidos de 2024 no son el nuevo normal. Son el costo de estar en el mercado cuando el ciclo todavía no giró.
+
+Para los proyectos en exploración o desarrollo que pausaron por falta de financiamiento, el análisis de Canaccord es un argumento ante inversionistas y bancos. Si el déficit está proyectado con horizonte a 2035, un proyecto que entre en producción en 2028 o 2029 capturará precio de ciclo alto durante años. Ese es el tipo de retorno que justifica el riesgo de un activo temprano.
+
+Para los gobiernos de la región, la lección es más incómoda: los marcos regulatorios que generan incertidumbre no solo ahuyentan proyectos hoy — los retrasan lo suficiente como para perderse el ciclo. Bolivia ya lo demostró. Si el déficit comienza antes de 2030 y los proyectos tardan una década en madurar, las decisiones de política pública que se tomen en los próximos 24 meses determinarán quién está en producción cuando el mercado lo necesite.  
+ El litio barato fue una anomalía. El déficit estructural es la corrección.  
+ ENLACE: Mercado de litio entra en déficit hasta 2035: oportunidad crítica para productores latinoamericanos –
+
+> Mercado de litio entra en déficit hasta 2035: oportunidad crítica para productores latinoamericanos
+
+  
+ Osvaldo Rolón Domínguez 16/11/2025
+
+En los últimos años, el mundo entró en una competencia silenciosa, pero cada vez más intensa, por los recursos que sostienen la economía del siglo XXI. Si en el siglo XX el petróleo definió la política global, hoy los motores de la transición energética (las baterías, los autos eléctricos, los paneles solares y los microchips) dependen de minerales críticos como las tierras raras, en especial el mineral llamado litio. Y en ese mapa, Sudamérica ocupa un rol que pocas veces ha tenido en la historia, el de región estratégica para el futuro tecnológico del planeta. Esta importancia no es puramente económica o geopolítica, es también climática. La lucha global contra el cambio climático depende directamente del acceso a estos materiales, porque sin ellos no es posible acelerar la transición hacia energías limpias y reducir las emisiones que hoy impulsan el calentamiento global.
+
+A pesar de su nombre, las tierras raras no son tan «raras»; lo difícil es extraerlas y procesarlas. Son 17 elementos químicos esenciales para fabricar motores eléctricos, turbinas eólicas, fibras ópticas, imanes de alta potencia, misiles guiados, satélites y microchips. Hoy, China controla alrededor del 60-70% de su producción y más del 85% de su refinado, lo cual genera una dependencia que preocupa a Estados Unidos, Europa y Japón. Dominar estas cadenas de suministro implica también tener ventaja en sectores como defensa, inteligencia, comunicaciones y productos tecnológicos de alta complejidad.
+
+Además, las recientes tensiones comerciales entre China y Estados Unidos reforzaron aún más la importancia de asegurar minerales críticos. Cada sanción y cada restricción acelera la carrera por controlar tierras raras y reducir chokepoints geopolíticos.
+
+La guerra en Ucrania también jugó un papel clave. Europa descubrió de golpe que su dependencia energética del petróleo y gas ruso era un riesgo estratégico enorme. Ese shock llevó a la Unión Europea a buscar alternativas limpias, acelerar su transición energética e intensificar la competencia global por minerales necesarios para energías renovables. En ese contexto, las tierras raras y otras materias críticas crecieron a un ritmo sin precedentes.
+
+Bolivia, Argentina y Chile conforman el Triángulo del Litio (véase Figura 1), una de las regiones más ricas del mundo en este mineral. Clave para fabricar baterías de autos eléctricos y sistemas de almacenamiento energético. Según Naciones Unidas y el Foro Económico Mundial, Sudamérica posee más del 50% de las reservas mundiales. Esta abundancia coloca a la región en el corazón de la agenda climática mundial; el litio es esencial para reducir la dependencia de combustibles fósiles y permitir que más países avancen hacia energías renovables. Pero al mismo tiempo, el litio sostiene industrias críticas para la seguridad nacional; satélites, drones, sistemas de comunicación, inteligencia artificial y equipamiento militar dependen cada vez más de baterías de alta capacidad y nuevos materiales.
+
+  
+ El Triángulo del Litio en Sudamérica. Fuente: El Orden Mundial.  
+ Fuente: El Orden Mundial.
+
+Sin embargo, el litio sudamericano no solo es abundante, es más barato de extraer gracias a los salares, donde se evapora el agua naturalmente. Esto coloca a la región en una posición privilegiada frente a Australia o China, donde la extracción requiere minería dura.
+
+Por primera vez en décadas, los recursos de la región son fundamentales para industrias de altísimo valor agregado, autos eléctricos, almacenamiento energético, sistemas de defensa avanzada y electrónica crítica. Si los países negocian bien (con royalties, asociaciones estratégicas y tecnología), pueden generar cadenas de valor locales en vez de ser solo exportadores de materias primas. En este punto, es crucial que la inversión extranjera no se limite a «extraer y marcharse», sino que contribuya a desarrollar el capital humano sudamericano. La verdadera transformación llega cuando las empresas forman ingenieros, técnicos, investigadores y especialistas locales capaces de sostener, mejorar y expandir estas industrias. Apostar por la transferencia de conocimiento es tan importante como negociar buenos contratos, porque sin talento propio no hay desarrollo duradero ni independencia tecnológica.
+
+Además, los países de Sudamérica pueden convertir este auge en una oportunidad para fortalecer sus propios compromisos climáticos, modernizar sus infraestructuras y adoptar energías más limpias en sus propias economías. La formación de capital humano también amplifica este impacto, porque un continente con técnicos y profesionales capacitados puede liderar, y no solo acompañar, la transición verde.
+
+Estados Unidos, China y la Unión Europea compiten directamente por el acceso al litio y otros minerales críticos. China busca asegurar el suministro para sus gigantes de baterías.
+
+EE. UU. quiere reducir su dependencia de Asia e integrar a Sudamérica a su estrategia de «nearshoring». Europa quiere garantizar recursos para cumplir sus metas de transición verde. Cada una de estas potencias necesita tierras raras (en especial el litio) para cumplir sus propios compromisos climáticos internacionales y avanzar en la descarbonización de sus industrias. Quien controla estos materiales controla partes clave del poder militar, tecnológico y económico del siglo XXI. Esto convierte a Sudamérica en un punto clave dentro de la futura arquitectura energética, climática y geopolítica mundial.
+
+Sin planificación, la región podría repetir su historia, exportar recursos sin desarrollar industrias tecnológicas propias. La clave es subir en la cadena de valor, producir baterías, materiales procesados e incluso atraer fábricas de autos eléctricos. Pero también está la responsabilidad ambiental, gestionar estos recursos de manera sostenible. El mundo necesita litio para frenar el cambio climático, pero eso no puede lograrse sacrificando ecosistemas locales, comunidades indígenas o fuentes de agua. De hecho, según el Foro Económico Mundial, alrededor del 80% de los proyectos de litio actuales se desarrollan en tierras habitadas por pueblos indígenas, lo que incrementa el riesgo de desplazamientos, conflictos comunitarios y destrucción de ecosistemas frágiles. Sudamérica tiene la oportunidad (y el desafío) de demostrar que es posible liderar la transición energética con responsabilidad ambiental y con soberanía real.
+
+Tener litio no garantiza tener poder. El poder surge cuando la región controla más etapas del proceso: investigación, refinado, producción, reciclaje y patentes. Si Sudamérica no diseña una estrategia propia, corre el riesgo de repetir los errores del pasado y convertirse nuevamente en víctima de dinámicas neocoloniales, donde las grandes potencias se llevan los recursos estratégicos y la región vuelve a quedar fuera del valor añadido y del conocimiento. Evitar ese escenario requiere visión, unidad regional, formación de capital humano y decisiones firmes.
+
+Las tierras raras y el litio están redefiniendo la economía global. Por primera vez, Sudamérica es vista no solo como fuente de alimentos y energía, sino como un actor central para la movilidad eléctrica, la transición verde, las tecnologías avanzadas y la seguridad militar mundial. Al mismo tiempo, la región tiene la capacidad de contribuir de manera decisiva a la lucha contra el cambio climático, ayudando a que el mundo reduzca emisiones y adopte tecnologías limpias más rápido.
+
+El reto es claro: evitar caer en la lógica tradicional de exportar materias primas sin valor agregado y, en cambio, construir una estrategia común que permita convertir el Triángulo del Litio y otros minerales críticos en una plataforma para el desarrollo industrial propio, para la modernización interna y para un aporte real a la agenda climática global. La formación del capital humano será el corazón de ese proceso; sin ingenieros, científicos, técnicos y gestores formados localmente, la región no podrá sostener su propio avance.
+
+Sudamérica tiene la oportunidad de pasar de ser espectadora a protagonista en la nueva economía mundial, en la transición energética y en la seguridad tecnológica del siglo XXI.
+
+También tiene la responsabilidad de no repetir los errores del pasado y evitar cualquier forma de neocolonialismo disfrazado de inversión.  
+ https://elnacional.com.py/opinion/el-litio-despertara-sudamerica-o-lo-condenara-repetir-su-historia-n96043
+
+Bnamericas 15/10/2025  
+ Del litio al cobre: la posición de las inversiones chinas en América Latina
+
+La presencia de la inversión china en proyectos mineros en América Latina es todavía relativamente modesta, pero ha ganado nuevo impulso en los últimos años y se está consolidando como uno de los temas centrales en las discusiones geopolíticas actuales.
+
+Actualmente, las empresas chinas tienen una participación del 4,1% en proyectos mineros de la región, según un relevamiento de la base de datos de proyectos de BNamericas.
+
+La participación china se produce de muchas formas, desde participaciones accionarias directas o indirectas hasta financiación y suministro de equipos y servicios especializados.
+
+«Los movimientos de los inversionistas chinos en el sector no han sido lineales. Entre 2010 y mediados de 2019, hubo una fuerte ola de entrada de estos inversionistas, principalmente en Perú, seguida de una disminución hasta 2023. Ahora, vemos señales de un resurgimiento del interés chino en la minería en la región,» dijo a BNamericas Tito Martins, ex ejecutivo de Vale y Nexa y actual consultor senior de metales y minería en Kaiau Consultoria.
+
+La presencia china está diversificada tanto entre países como entre segmentos.
+
+Argentina posee la mayor participación, con un 10,53%, seguida de Perú, con casi un 6%. En Argentina, el interés de estos inversores se centra en el litio, mientras que en Perú predomina el cobre.
+
+«En estos dos países, los gobiernos locales han incentivado a los inversionistas extranjeros, incluidos los chinos, a ingresar a la industria minera. Otros países de la región presentan características muy singulares que dificultan el entorno. Grandes compañías mineras globales ya están bien establecidas en Chile y Brasil, lo que representa una barrera importante para nuevos participantes, independientemente de su origen,» afirmó Martins.
+
+En Argentina, empresas mineras chinas como Ganfeng Lithium , Zijin Mining y Tibet Summit han estado invirtiendo en proyectos de litio en los últimos años.
+
+Las provincias argentinas, que tienen autonomía para aprobar proyectos y otorgar licencias, vienen impulsando esfuerzos para incrementar la inversión extranjera, sin mayores distinciones en cuanto a país de origen.
+
+En Perú, China ha consolidado su presencia en operaciones cupríferas como Las Bambas , operada por MMG ; Toromocho, operada por Chinalco ; Río Blanco , operada por Zijin Mining, que se encuentra en prefactibilidad; y Pampa del Pongo , operada por Jinzhao Mining, cuya operación está prevista para el próximo año. China también participa en la mina de hierro Marcona en Perú, a través de Shougang Hierro , y desarrolla varios proyectos en fase de exploración.
+
+En Chile, Brasil y México, la participación de inversionistas chinos en proyectos mineros es menor al 3%.
+
+En Brasil, sin embargo, movimientos recientes indican un renovado interés.
+
+A principios de 2025 , Anglo American vendió sus activos de níquel en el país a MMG Singapore Resources, filial de la estatal china MMG, en una operación estimada en US$500 millones. También ese año, la minera peruana Minsur completó la venta de Mineração Taboca a la empresa china CNMC Trade Company por US$340 millones. Taboca opera la mina de estaño Pitinga en Amazonas y es propietaria de la fundición Pirapora en São Paulo.
+
+A pesar de la recuperación, la inversión china en la minería brasileña todavía es modesta en comparación con otros sectores.
+
+En 2024, las inversiones chinas en Brasil totalizaron US$ 4,18 mil millones, un aumento del 113% en comparación con 2023, según el Consejo Empresarial Brasil-China (CEBC).
+
+El sector eléctrico brasileño lideró la captación de capital chino, con el 34% de las transacciones, seguido del petróleo (25%) y el sector automotriz (14%). La minería ocupó el cuarto lugar, con el 13% de las inversiones.
+
+Geopolítica
+
+El interés chino en la minería latinoamericana está fuertemente vinculado a factores geopolíticos.
+
+En medio de la creciente tensión arancelaria entre Estados Unidos y China, el país asiático ha utilizado su dominio en minerales críticos como palanca de presión. Pekín anunció recientemente restricciones a la exportación de tierras raras, insumos clave para las industrias tecnológica y de defensa estadounidenses.
+
+Con grandes reservas de varios de estos minerales, América Latina se ha convertido en escenario de disputas entre ambas potencias globales.
+
+En los últimos meses, la administración de Donald Trump ha estado acercándose al presidente argentino Javier Milei, incluso ofreciendo apoyo del Tesoro de Estados Unidos para las reservas de divisas del país.
+
+Los analistas creen que este acercamiento podría abrir espacio para una mayor presencia de empresas norteamericanas en la minería argentina, limitando la expansión china.
+
+En Brasil, la minería también probablemente se verá influenciada por cuestiones políticas en los próximos meses.
+
+Desde agosto, Estados Unidos ha impuesto un arancel del 50% a las exportaciones brasileñas, pero ambos gobiernos han iniciado negociaciones para reducirlo. Los analistas señalan que, en algún momento, el acceso de las empresas estadounidenses a las reservas brasileñas de minerales críticos , especialmente tierras raras, probablemente estará en la agenda.
+
+Brasil posee la segunda mayor reserva de estos minerales, sólo detrás de China, pero aún carece de la tecnología para procesarlos.
+
+«Estados Unidos cuenta con la tecnología, el capital y la capacidad industrial para, si realmente se compromete, desarrollar una cadena de procesamiento de tierras raras en pocos años. Sin embargo, tendrá que abordar su rezago tecnológico con respecto a China y probablemente negociar el acceso a las tecnologías chinas. China ha invertido fuertemente en el sector y posee una ventaja técnica y una infraestructura consolidada,» declaró a BNamericas José Carlos Martins, miembro del directorio de Cedro Mineração y ex ejecutivo de Vale.
+
+Este acercamiento entre Estados Unidos y la minería en Sudamérica ya está empezando a ocurrir.
+
+La empresa minera Aclara Resources, con sede en Toronto, planea integrar las cadenas de suministro entre Sudamérica y Estados Unidos. La compañía planea invertir US$1.200 millones en proyectos de tierras raras en Brasil y Chile, así como construir una planta en EE. UU. para convertir los óxidos extraídos en aleaciones para imanes permanentes.
+
+“La idea es construir una cadena de suministro totalmente integrada, trazable y sostenible que conecte la minería responsable en Sudamérica con la producción de materiales avanzados en América del Norte”, dijo Ramón Barúa Costa, CEO de Aclara, en una entrevista reciente con BNamericas.
+
+La Corporación Financiera Internacional para el Desarrollo ( DFC ) de Estados Unidos ya ha invertido US$5 millones en el proyecto Carina de Aclara en Brasil, lo que refuerza el interés estadounidense en desarrollar cadenas de valor regionales para minerales críticos.  
+ (La versión original de este contenido fue escrita en portugués)  
+ https://www.bnamericas.com/es/reportajes/del-litio-al-cobre-la-posicion-de-las-inversiones-chinas-en-america-latina
+
+24/09/2025  
+ En PERUMIN 37, Julian Kettle, vicepresidente de Wood Mackenzie, advirtió que la descarbonización global exigirá más cobre, litio y níquel, consolidando a la región como proveedor clave.
+
+Julian Kettle, vicepresidente de Wood Mackenzie, presentó la conferencia magistral “Energías renovables a medida”, en el marco del programa Minería del Futuro. Su exposición giró en torno al papel de las energías limpias, los minerales críticos y la electrificación en la transición hacia una industria minera baja en carbono.
+
+Kettle destacó que la electrificación es un proceso irreversible que incrementará de manera sostenida la demanda global de electricidad, transformando tanto la matriz de generación como el transporte. Según las proyecciones de Wood Mackenzie, hacia el 2050 los vehículos eléctricos tendrán una participación predominante en el mercado, lo que exigirá mayor capacidad de generación renovable y sistemas de almacenamiento más eficientes.
+
+El especialista subrayó que la transición energética será más intensiva en metales, con tecnologías como la energía eólica marina que requieren hasta 15 veces más cobre que una planta a carbón. Asimismo, la expansión de los vehículos eléctricos y las redes de transmisión demandará crecientes volúmenes de litio, cobalto, aluminio y níquel, reforzando el rol estratégico de Perú y América Latina en el abastecimiento global.
+
+Asimismo, señaló que los impulsores estratégicos que guiarán a la minería hacia un modelo neto cero deben incluir presión regulatoria, eficiencia operativa, innovación tecnológica, exigencias de inversores y mercados, cadenas de suministro sostenibles y la reputación empresarial.
+
+Finalmente, advirtió que América Latina enfrenta retos decisivos para avanzar hacia la descarbonización. “Tenemos batallas en muchos frentes, las cuales debemos ganar. Antes que todo, tenemos que construir una red eléctrica sólida, no hay excusas para esto. Luego, debemos reemplazar el diésel en los camiones por opciones eléctricas y, finalmente, retirar hidrocarburos de las fundiciones sustituyéndolos por hidrógeno, aunque este último es un gran desafío”, concluyó.
+
+> Transición energética multiplicará la demanda de metales y redefinirá el rol de América Latina
+
+15/07/2025  
+ Un estudio sobre la minería del litio en Argentina y Chile revela las complejas relaciones entre sindicatos, empresas y gobiernos en una industria estratégica para la transición energética. El informe, elaborado en el marco del Proyecto FES-IndustriALL sobre la cadena de suministro de baterías, destaca desafíos en gobernanza, condiciones laborales y debida diligencia en derechos humanos.
+
+Durante la presentación se abordó la situación de la minería del litio en Argentina y Chile, países que forman parte del “Triángulo del Litio”, una región clave por su alto volumen de reservas del mineral, esencial para la fabricación de baterías usadas en vehículos eléctricos y tecnologías limpias. La investigación analizó las relaciones entre trabajadores, empresas y gobiernos, con el objetivo de fortalecer la cooperación sindical y mejorar los estándares sociales y ambientales.
+
+El informe señala un crecimiento en la producción de litio en ambos países, aunque con pérdida de participación frente a Australia y China. Las exportaciones están mayoritariamente dirigidas a China, mientras que los procesos de industrialización “aguas abajo” aún son incipientes. En Argentina, el esquema de gobernanza es fragmentado y federalizado, mientras que Chile avanza hacia un modelo más centralizado con mayor presencia estatal.
+
+Respecto al empleo, se observa una baja intensidad laboral, alta tercerización y desigualdad salarial, aunque ha habido un incremento en el empleo total y en la participación de mujeres. La representación sindical es fuerte, pero enfrenta dificultades debido a la precarización y la fragmentación de los contratos.
+
+La aplicación de políticas de debida diligencia en derechos humanos es limitada y se basa mayormente en estándares voluntarios. Sin embargo, la entrada en vigor de normativas más estrictas en Europa se considera una oportunidad para aumentar la presión sobre las empresas y mejorar el cumplimiento en toda la cadena de suministro.
+
+El estudio fue realizado por cuatro investigadores de Argentina y Chile, con el fin de proporcionar a las organizaciones afiliadas a IndustriALL herramientas para identificar actores clave y puntos de presión en un sector en crecimiento, pero con desafíos sustanciales en lo laboral y ambiental.
+
+En la presentación participaron representantes de AOMA (Argentina) e Industrial Chile Constramet. También participaron Laura Carter, secretaria regional adjunta para América Latina, Georg Leutert, director global del sector automotriz, y Diana Junquera, directora global del sector de Energía y Transición Justa, quien afirmó:
+
+“Con este estudio, nuestras afiliadas contarán con información clave y herramientas que les permitirán organizar a más trabajadores a lo largo de toda la cadena de valor de las baterías, especialmente en la minería del litio. Conocer los desafíos a los qu
+
+... [Content truncated]
