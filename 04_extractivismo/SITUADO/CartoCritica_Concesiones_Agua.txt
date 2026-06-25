@@ -1,0 +1,351 @@
+url: https://cartocritica.org.mx/2016/concesiones-de-agua-para-las-mineras/
+
+title: Concesiones de agua para las mineras
+
+description: La industria minera extrajo casi 437 millones de metros cúbicos de agua durante 2014. Esto es agua suficiente como para cubrir las necesidades humanas de toda la población de Baja California Sur, C…
+
+date: 2016-01-26T06:56:17Z
+
+# Concesiones de agua para las mineras
+
+26 enero, 2016 | Agua, Estadísticas, Mapas, Medio Ambiente, Minería | 35 
+
+La industria minera extrajo casi **437 millones de metros cúbicos de agua** durante 2014. Esto es agua suficiente como para **cubrir las necesidades humanas** de toda la población de Baja California Sur, Colima, Campeche y Nayarit durante el mismo periodo.
+
+La **minería** se cuenta entre las **actividades industriales que causan mayor impacto sobre el medio natural**. El agua, el suelo y el aire son los mayores afectados durante el beneficio y la transformación de minerales debido a los lixiviados y gases que se desprenden en los procesos de trituración, lavado, corrosión y mecanismos químicos de separación. A su vez, **la minería es una de las industrias más intensivas en el consumo de agua, afectando tanto la disponibilidad como la calidad de la misma**. El impacto de la minería sobre el agua debe considerarse en tres dimensiones: **alto consumo, contaminación y destrucción de las fuentes de agua.**
+
+En cada rincón del país se extrae agua del subsuelo o de la superficie, ya sea de pozos y manantiales o de ríos, lagunas y presas. Durante 2014 se extrajeron en todo el país casi 3 millones de litros de agua por segundo, según los datos del Registro Público de Derechos de Agua (REPDA) de la Comisión Nacional del Agua (CONAGUA). **¿Cuánta de esta agua ha sido concesionada para la industria minera?** **¿A qué empresas y en dónde?**
+
+La respuesta a estas interrogantes no es sencilla de obtener, puesto que **la Secretaría de Economía -encargada de la regulación de la minería en México- no reporta estos datos** (ni ningún otro) de manera desagregada para cada empresa minera, y en el caso del consumo de agua, ni siquiera de manera estatal o nacional.
+
+Para obtener una visión al menos parcial de el agua que ocupa la minería en el país, CartoCrítica junto con la Fundación Heinrich Böll presentan en colaboración la siguiente investigación.
+
+## Opacidad en la minería
+
+La **información pública** detallada con respecto del sector minero mexicano es **prácticamente inexistente**, como ejemplo, baste recordar que hasta fechas recientes acceder a los datos del catastro minero (concesiones mineras) estaba sujeto al pago de derechos exorbitantes, ya que la Secretaría de Economía pretendía cobrar poco más de 7 millones de pesos en derechos para dar acceso a esta información a nivel nacional. Mismo caso con la información correspondiente a los estudios de geoquímica de sedimentos de arroyo (indicador indirecto de potencial minero) que elabora el Servicio Geológico Mexicano, que están a la venta al mejor postor en un monto que asciende a más de 17 millones de pesos. Esta situación genera una **asimetría en el acceso a la información pública**, entre quienes sí pueden conocer la información (empresarios) y quiénes no (dueños de la tierra, sociedad en general).
+
+Si esta es la **situación de opacidad que existe en el sector minero** en torno a las concesiones del estado para la extracción de minerales o los inventarios de potencial minero, lo es aún más para conocer **información desagregada sobre cada empresa** y proyecto minero. Así por ejemplo **la Secretaría de Economía no reporta (y por el contrario mantiene reservada) la información desagregada sobre cuántos minerales extrae cada empresa por proyecto minero**, así como cuántos impuestos paga por este concepto; la Secretaría de Economía solo emite reportes estatales que no permiten identificar de manera puntual las actividades de cada empresa.
+
+Siendo este el panorama de opacidad que rige al sector minero, **¿cómo podemos conocer y cuantificar el impacto socioambiental de cada proyecto minero frente a la supuesta derrama económica y laboral que genera?** Un primer insumo en este camino es conocer la cantidad de agua concesionada para cada empresa minera. Esta información detallada no se encuentra disponible de manera oficial, ya que si la **Secretaría de Economía no informa** públicamente sobre los recursos minerales propiedad de la nación que extraen las empresas mediante concesiones mineras otorgadas bajo su mandato, **mucho menos informa sobre los recursos hídricos consumidos** en los procesos de exploración, extracción y beneficio de minerales.
+
+La cuantificación del consumo de agua de la industria minera en México (y en casi todo el mundo) es un reto, ¿cuánta agua ocupa y contamina en su operación cotidiana un determinado proyecto minero? **Si ni siquiera sabemos cuánta agua tiene concesionada, mucho menos podemos saber cuánta contamina en cada proceso.** Una primera forma de acercarse a esta información es mediante la realización de **búsquedas en el Registro Público de Derechos de Agua (REPDA)**, que es una base de datos georreferenciada de grandes dimensiones, que tiene como objetivo administrar y controlar los usos de las Aguas Nacionales a través de la inscripción de los títulos de concesión, asignación y permisos de descarga.
+
+## Metodología
+
+Para tener una primera aproximación que nos permita responder (al menos con datos oficiales) a estas preguntas, **se realizó una minuciosa búsqueda de los títulos de concesión de agua que tuvieran las empresas mineras registrados a su favor en el REPDA**. Si bien los datos del REPDA no representan la totalidad del agua consumida en el país (aún y cuando así debería de ser), sí sirven para conocer el volumen concesionado basado al menos en fuentes administrativas oficiales.
+
+La búsqueda en este registro es una tarea titánica y minuciosa, ya que el REPDA es una base de datos muy extensa (casi 500 mil registros al menos hasta diciembre de 2014), pero sobretodo, el trabajo de CONAGUA ha sido sumamente deficiente para incorporar los registros, ya que estos presentan múltiples faltas de ortografía en el nombre de los titulares, mala georreferenciación, registros incompletos, columnas poco claras, etcétera.
+
+A la par, **una empresa o grupo minero puede tener múltiples razones sociales, subsidiarias y filiales**, cada una con un nombre distinto. De modo que para buscar las «empresas mineras» en el REPDA, fue preciso primero **conformar un catálogo de «empresas mineras»** -utilizando fuentes oficiales- y posteriormente intentar agrupar a estas empresas según el grupo minero al que pertenecen. El catálogo de empresas mineras se integró tomando como fuente el «Directorio del Sector Minero» y el «Portafolio de proyectos mineros» de la Secretaría de Economía. El catálogo de empresas mineras que se integró para la búsqueda está conformado por 2,849 razones sociales distintas.
+
+Una vez teniendo el catálogo de empresas mineras consolidado, se programó una **búsqueda de similares y aproximados** entre los nombres de los **titulares de concesiones de agua en el REPDA y los nombres del catálogo de empresas mineras**. Esto puesto que por ejemplo, las siguientes razones sociales se refieren a la misma empresa:
+
+> INDUSTRIAL MINERA MEXICO S.A. DE C.V.  
+>  Indrustrial Minera de Mexico, SA de CV.  
+>  COMPAÑIA INDUSTRIAL MINERA MEXICO, S.A.
+> 
+> o
+> 
+> Cemex, S.A.B. de C.V.  
+>  CEMEX, S.A. DE C.V.  
+>  CEMEX MEXICO S. A. DE C. V.  
+>  CEMEX CONCRETOS, S.A. DE C.V. (PLANTA CANCÚN)
+
+Sin embargo por diversas razones, desde signos de puntuación y acentos, errores tipográficos, hasta la existencia de múltiples razones sociales, si se realizara tan solo una búsqueda simple entre las bases de datos los ejemplos anteriores no arrojarían ningún resultado, de ahí la necesidad de una búsqueda por aproximados o similares, que posteriormente fue calificado de manera individual cada resultado.
+
+## Resultados
+
+Finalmente se encontraron **417 empresas mineras dentro del REPDA**, que se lograron agrupar en **230 grupos empresariales mineros**. Un total de **1,036 títulos de aprovechamiento de agua**, amparando un volumen de **436 millones 643 mil 287.92 metros cúbicos anuales de agua** es lo que se encontró concesionado a empresas mineras. Esto es el equivalente al volumen de agua necesario para satisfacer el **derecho humano al agua por un año de 11 millones 962 mil 830 personas.** Cabe recordar que en México, 13.8 millones de personas no tienen acceso al agua en la vivienda.
+
+Haz clic en la imagen para ver en grande
+
+Puedes hacer clic en el signo de más para ver las razones sociales que integran cada grupo minero:  
+
+Los 1,036 títulos de agua otorgados a la minería que fueron encontrados los puedes ver en este mapa, así como todos los detalles de cada título de aprovechamiento de agua, como son el nombre del titular, el folio de registro en CONAGUA, el volumen concesionado y el tipo de uso registrado.
+
+  
+ Elaboración propia de CartoCrítica, 2015, con base en datos del REPDA (CONAGUA)
+
+El uso del agua para la minería no es igual en todo el país, el norte del país es sin duda la región de México con mayor actividad minera, así como también la que más agua ocupa para esta industria. **La mitad del agua destinada a la minería en el país se extrae en tan solo tres estados:** Sonora (107.9 millones de m3/a), Zacatecas (55.8 millones de m3/a) y Michoacán (44.4 millones de m3/a).
+
+Puedes hacer clic en el signo de más para ver las empresas que están en cada entidad:  
+
+De igual manera, podemos ver el agua extraída para la minería que no afecta igual a todas las cuencas:
+
+Haz clic en la imagen para ver en grande
+
+Puedes hacer clic en el signo de más para ver las empresas que están en cada cuenca:  
+
+Concesiones de agua para las mineras por CartoCrítica - Investigación, mapas y datos para la sociedad civil está licenciado bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+
+Tags: agua, concesiones, méxico, minería, repda
+
+## 35 comments
+
+*   José Pablo Antonio
+
+    18 febrero, 2016 12:47 | Responder
+
+    Hola muy buenas tardes.
+
+    Les envió un saludo desde el estado de Oaxaca, he revisado la información que tienen sobre concesiones de agua y minería, la cual me parece muy importante.
+
+    Me gustaría tener una comunicación mas cercana, toda vez; que estamos acompañando un proceso de consulta indígena, donde las comunidades han solicitado información sobre una empresa Minera que esta cerca de la región y cuales serian las posibles afectaciones con el manto friatico, por lo que hemos visto consideramos que no están dando al información adecuada.
+
+    *   Luka
+
+        7 julio, 2016 09:18 | Responder
+
+        Hola Jose Pablo,
+
+        El tema de hecho es algo sensible por que los numeros o no concuerdan o no se reportan.
+
+        Por el ejemplo, el volumen concesionado de agua NO ES el mismo de lo que se extrae del subsuelo, y el volumen que se extrae, tiende a ser menor al volumen utilizado en proceso.
+
+        Basicamente, la concesion corresponde a la cantidad de agua extraible y que debe ser autorizada, sin embargo, puede extraerse mas agua, por concepto de desaguado de mina (de lo contrario se inunda) esto tiende a ser menor cuando se extienden de forma lateral y se incrementa a medida que profundizan la mina.
+
+        El impacto de desaguar la mina, corresponde a la generacion de un cono de abatimiento del manto freatico, el cual es una afectacion pun tual a local y lo que pueden resentir el efecto, son los pozos y/o norias mas cercanos a la mina.
+
+        El agua de laboreo NO REQUIERE autorizacion, la Ley de Agua Nacional, permite que el agua de mina pueda ser utilizada, aclarando que si bien no requiere concesion, si requiere pago de derechos 8no es gratis).
+
+        Esto significa que tenemos un volumen de por concesion +´volumen por laboreo de mina.
+
+        Si la mina tiene sistemas de recirculacion y reciclaje, el agua subterranea se transforma en agua de reemplazo para cubrir las perdidas de agua (evaporacion, lo que se va en concentrados, lo que esta en presa de jales, etc.)
+
+        El agua que se utiliza en proceso, ya no es agua reportable (a menos de que sean parte de un programa voluntario de reportes de indicadores ambientales), solo el agua extraida/(concesionada).
+
+        La informacion, desde un puntos de vista tecnico (hidrogeologico) tiende a ser limitada, especialmente cuando no va soportada por una capacitacion, explicacion, justificacion. Cuando solo se presentan los resultados o las conclusiones, o no se entienden o no se sabe como es que llegan a tales numeros.
+
+        *   Itza
+
+            21 octubre, 2016 11:47 | Responder
+
+            Hola Luka, ¿Qué tal?
+             ¿Sabes donde puedo consultar más información al respecto de lo que comentas sobre el desaguado de la mina?
+             Veras, estoy haciendo mi tesis sobre un conflicto socioambiental de carácter minero en el estado de Querétaro, México y me interesa ese tipo de información.
+             Saludos!
+*   Claudio Atl
+
+    18 febrero, 2016 18:40 | Responder
+
+    Gracias por este gran aporte, este trabajo es titánico y aun es la punta del iceberg.
+
+    Trabajo los temas de impacto social y con su investigación, ahora se cuenta con un insumo importante
+
+    Ojalá podamos colaborar
+
+    Saludos cordiales
+
+*   CeIBA | Minería: uso de agua en México
+
+    18 febrero, 2016 23:14 | Responder
+
+    \[…\] Concesiones de agua para las mineras \[…\]
+
+*   Heinrich y CartoCrítica – Concesiones de agua para las mineras | Caravana Mesoamericana Para el Buen Vivir
+
+    25 febrero, 2016 11:22 | Responder
+
+    \[…\] (Para ver el mapa interactivo entra a CartoCrítica) \[…\]
+
+*   Epifanio BAca
+
+    23 abril, 2016 12:42 | Responder
+
+    Excelente trabajo, felicitaciones
+
+*   Concesiones de agua para las mineras | Agua para todos | Agua para la Vida
+
+    18 mayo, 2016 01:11 | Responder
+
+    \[…\] Leer fuente origen: https://cartocritica.org.mx/2016/concesiones-de-agua-para-las-mineras/ \[…\]
+
+*   Para las mineras, las llaves abiertas | Movimiento Mesoamericano contra el Modelo extractivo Minero M4
+
+    25 mayo, 2016 08:37 | Responder
+
+    \[…\] ANÓTALO: Consulta directamente la investigación sobre concesiones a mineras \[…\]
+
+*   Sfruttamento ambientale e violazioni dei diritti umani in Messico | Agave e derivati
+
+    3 junio, 2016 03:13 | Responder
+
+    \[…\] nel 2014 all’industria mineraria sono stati destinati 437 milioni di metri cubi d’acqua: si tratta di un volume sufficiente a soddisfare il fabbisogno \[…\]
+
+*   Juan Carlos Bravo
+
+    13 julio, 2016 19:57 | Responder
+
+    Hola
+
+    Qué buen trabajo. ¿Es posible descargar las capas en achivos shp o csv para Sistemas de Información Geográfica en algún lado?
+
+*   Ojo de Agua Comunicación | Concesiones de agua para las mineras
+
+    27 julio, 2016 10:51 | Responder
+
+    \[…\] (Para ver el mapa interactivo entra a CartoCrítica) \[…\]
+
+*   México: “Mi casa está dentro de una concesión para megaminería” | REMA
+
+    28 julio, 2016 20:46 | Responder
+
+    \[…\] proyectos necesitan de grandes cantidades de agua. El sitio Cartocrítica ofrece un mapa con información sobre las concesiones de agua para la minería, una de las \[…\]
+
+*   Miles de mexicanos, ‘parados’ sobre minas y ¡no lo saben!
+
+    30 julio, 2016 12:55 | Responder
+
+    \[…\] proyectos necesitan de grandes cantidades de agua. El sitio Cartocrítica ofrece un mapa con información sobre las concesiones de agua para la minería, una de las industrias más \[…\]
+
+*   Mineras acumulan 108 millones de metros cúbicos de agua – jesusibarrablog
+
+    2 agosto, 2016 01:24 | Responder
+
+    \[…\] Se trata de la mayor concentración de concesiones legales en manos de una industria para explotar el líquido en todo el país, según los resultados de un estudio elaborado por la asociación civil CartoCrítica. \[…\]
+
+*   Slim, el voraz - Lado B
+
+    21 agosto, 2016 08:56 | Responder
+
+    \[…\] empresa tiene dos concesiones de agua, una por 900 mil y otra por 203 mil metros cúbicos \[…\]
+
+*   Grupo de Slim explota minas en área natural protegida
+
+    21 agosto, 2016 09:47 | Responder
+
+    \[…\] empresa tiene dos concesiones de agua, una por 900 mil y otra por 203 mil metros cúbicos \[…\]
+
+*   Slim, el voraz | Chiapasparalelo
+
+    21 agosto, 2016 10:28 | Responder
+
+    \[…\] empresa tiene dos concesiones de agua, una por 900 mil y otra por 203 mil metros cúbicos \[…\]
+
+*   Las acusaciones contra Grupo México en Sonora
+
+    22 agosto, 2016 08:25 | Responder
+
+    \[…\] minera que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   Larrea, el sucio | Chiapasparalelo
+
+    22 agosto, 2016 08:56 | Responder
+
+    \[…\] minera que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   Larrea, el sucio - Lado B
+
+    22 agosto, 2016 09:29 | Responder
+
+    \[…\] minera que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   Larrea, el sucio – Desinformémonos
+
+    22 agosto, 2016 09:45 | Responder
+
+    \[…\] minera que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   El Banquete Minero (I): Slim, el voraz ‹ .:: SomosMass99 ::.
+
+    23 agosto, 2016 06:15 | Responder
+
+    \[…\] empresa tiene dos concesiones de agua, una por 900 mil y otra por 203 mil metros cúbicos \[…\]
+
+*   Baillères, el heredero | Chiapasparalelo
+
+    23 agosto, 2016 06:57 | Responder
+
+    \[…\] La empresa tenía una concesión para extraer más de 66 mil metros cúbicos de agua de un pozo a 200 metros de profundidad, según la investigación de Cartocrítica y Fundación Heinrich Böell. \[…\]
+
+*   Baillères, el heredero - Lado B
+
+    23 agosto, 2016 10:51 | Responder
+
+    \[…\] para extraer más de 66 mil metros cúbicos de agua de un pozo a 200 metros de profundidad, según la investigación de Cartocrítica y Fundación Heinrich Böell \[…\]
+
+*   El Banquete Minero (II): Larrea, el sucio ‹ .:: SomosMass99 ::.
+
+    24 agosto, 2016 04:18 | Responder
+
+    \[…\] minera que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   Baillères, el heredero – Desinformémonos
+
+    24 agosto, 2016 10:41 | Responder
+
+    \[…\] La empresa tenía una concesión para extraer más de 66 mil metros cúbicos de agua de un pozo a 200 metros de profundidad, según la investigación de Cartocrítica y Fundación Heinrich Böell. \[…\]
+
+*   Baillères, el heredero – Debate Chiapas – Radio y TV
+
+    24 agosto, 2016 11:23 | Responder
+
+    \[…\] La empresa tenía una concesión para extraer más de 66 mil metros cúbicos de agua de un pozo a 200 metros de profundidad, según la investigación de Cartocrítica y Fundación Heinrich Böell. \[…\]
+
+*   El Banquete Minero (III): Baillères, el heredero ‹ .:: SomosMass99 ::.
+
+    25 agosto, 2016 04:33 | Responder
+
+    \[…\] La empresa tenía una concesión para extraer más de 66 mil metros cúbicos de agua de un pozo a 200 metros de profundidad, según la investigación de Cartocrítica y Fundación Heinrich Böell. \[…\]
+
+*   Slim, el voraz – El Otro
+
+    25 agosto, 2016 12:56 | Responder
+
+    \[…\] empresa tiene dos concesiones de agua, una por 900 mil y otra por 203 mil metros cúbicos \[…\]
+
+*   Larrea, el sucio – El Otro
+
+    26 agosto, 2016 12:18 | Responder
+
+    \[…\] minera que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   Baillères, el heredero – El Otro
+
+    26 agosto, 2016 12:44 | Responder
+
+    \[…\] La empresa tenía una concesión para extraer más de 66 mil metros cúbicos de agua de un pozo a 200 metros de profundidad, según la investigación de Cartocrítica y Fundación Heinrich Böell. \[…\]
+
+*   El Banquete Minero: Larrea, el sucio | Pagina3 - Noticias desde Oaxaca con perspectiva de género y responsabilidad social
+
+    2 septiembre, 2016 16:33 | Responder
+
+    \[…\] que más agua consume en el país con más de 90 millones de metros cúbicos al año, según el estudio sobre las concesiones de agua para las minas presentado este año por Cartocrítica y la organización alemana Heinrich \[…\]
+
+*   Minería | Pearltrees
+
+    14 noviembre, 2016 19:06 | Responder
+
+    \[…\] Más adelante, rocas volcánicas y dunas desérticas auguran un espectáculo cuasi extraterrestre. Luego, aparecen amplias planicies delimitadas por el horizonte celeste y la huella del agua salada que va y viene se percibe en fronteras blancas sobre la tierra seca. Es la plataforma de lexiviación del complejo minero San Felipe. Comprar “de a poquitos” En 2001 la empresa suspendió temporalmente actividades. La historia es así: Concesiones de agua para las mineras | CartoCrítica. \[…\]
+
+*   Aarón
+
+    14 abril, 2018 11:52 | Responder
+
+    Buen día
+
+    De que manera es correcto citar el contenido de la página???
+
+### Deja una respuesta Cancelar la respuesta
+
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con \*
+
+Comment
+
+Name \*
+
+Email \*
+
+Website
+
+Recibir un correo electrónico con los siguientes comentarios a esta entrada.
+
+Recibir un correo electrónico con cada nueva entrada.
+
+Δ
+
+ 
+
+Este sitio usa Akismet para reducir el spam. Aprende cómo se procesan los datos de tus comentarios.
+
+loading
