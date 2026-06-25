@@ -1,0 +1,73 @@
+url: https://mx.boell.org/es/2023/04/17/que-sabemos-de-la-gestion-ambiental-de-las-operaciones-mineras
+
+title: ¿Qué sabemos de la gestión ambiental de las operaciones mineras? | Heinrich-Böll-Stiftung - Ciudad de México | México y el Caribe
+
+description: De las 249 operaciones mineras metálicas en México, una proporción significativa no cuenta con los requisitos básicos ambientales.
+
+date: 2026-06-25T06:03:20
+
+ Pasar al contenido principal
+
+# ¿Qué sabemos de la gestión ambiental de las operaciones mineras?
+
+ 
+
+licence infos
+
+En México, no existe un sitio en donde podamos encontrar concentrada la información de las operaciones mineras y su gestión ambiental. La poca información oficial disponible sobre los proyectos mineros en operación está dispersa y es incompleta. La única información oficial precisa, desagregada y georreferenciada de la operación de las grandes minas en el país se limita a la base de datos de la Secretaría de Economía sobre concesiones mineras. Sin embargo, esta información no identifica, ni permite conocer la producción, extensión, minerales, técnicas ni ninguna otra información sobre la magnitud de las actividades mineras que ocurren en el país. No distingue si están operando o si simplemente utilizan las concesiones como elemento para la especulación financiera, actividad alentada por la vigencia de cada concesión minera, que dura 50 años prorrogables por 50 más.
+
+El sector minero no informa de manera pública ni desagregada, la cantidad de minerales que extrae por mina, planta de beneficio o empresa; no reporta cuántas hectáreas forestales fueron convertidas a tajos a cielo abierto y presas de lixiviados; y mucho menos, la cantidad de agua que utilizó, cuánta fue contaminada en sus procesos, ni cuánto pagó por ella. Identificar los proyectos mineros en operación es apenas el punto de inicio para conocer la gestión ambiental. Si no sabemos cuántas grandes minas operan en el país, ¿podremos efectivamente conocer cuántas cumplen con sus obligaciones de gestión ambiental?
+
+Para dimensionar el impacto de las operaciones mineras en México, CartoCrítica, con el apoyo de la Fundación Heinrich Böll, NRGI, y PLANEAS-PRONACE Energía y Cambio Climático, se dio a la tarea de construir la Cartografía de las Operaciones Mineras en México. Esta base de datos espacial es única en México y permite identificar con precisión cartográfica la superficie de la operación de cada mina en el país, distinguiendo la actividad minera:
+
+| Tipo                   | Número de operaciones identificadas | Suerperficie (ha) |
+| ---------------------- | ----------------------------------- | ----------------- |
+| Carbón                 | 62                                  | 18,073.2          |
+| Metálica               | 249                                 | 79,606.1          |
+| No metélica            | 182                                 | 8,256.8           |
+| Salina                 | 38                                  | 56,022.0          |
+| Metálica (exploración) | 343                                 | 26,362.4          |
+| **Total**              | **874**                             | **188,320**       |
+
+Asimismo, el sistema de información geográfica concentra más de 100 mil registros con información georreferenciada sobre la minería en México y su gestión ambiental.
+
+Al analizar estos datos fue posible identificar que escondidas a plena vista, entre miles y miles de concesiones vigentes -la mayoría dedicadas a la especulación financiera-, operan 97 minas metálicas a cielo abierto y otras 152 minas subterráneas, sin estar registradas en una base de datos oficial, en datos abiertos, capaz de distinguirlas, caracterizarlas espacialmente y, sobre todo, hacerles rendir cuentas públicamente de su producción o de su gestión ambiental. Con esta información que se pone ahora a disposición de la ciudadanía, podrán iniciarse investigaciones, reportajes y estudios sobre los impactos ambientales, sociales o a la salud ligados a la actividad minera.
+
+Utilizando el mapa de la Cartografía de las Operaciones Mineras, CartoCrítica realizó un diagnóstico de disponibilidad de información de gestión ambiental sobre la operación de la minería metálica. La investigación realizada sobre las minas metálicas en México revela un panorama crítico respecto al cumplimiento administrativo de las regulaciones ambientales y la disponibilidad de información pública sobre la gestión ambiental. Los resultados muestran que una proporción significativa de las minas metálicas de México no cuenta con los requisitos básicos en términos de evaluaciones de impacto ambiental (38% sin información o negada), depósitos de jales (23% sin información), concesiones de agua (62% sin concesión), permisos de descarga (72% sin permiso) y reportes en el Registro de Emisiones y Transferencia de Contaminantes -RETC- (55% sin un solo reporte en 17 años).
+
+ 
+
+Etiquetas
+
+*   Extractivismo
+*   Minería
+*   Tierra y territorio
+*   Transformación socioecológica
+
+Esta publicación tiene licencia:
+
+CC-BY-NC-SA 4.0
+
+**© Heinrich-Böll-Stiftung e.V.**  
+ Schumannstraße 8  
+ 10117 Berlin  
+ T +49 (30) 285 34-0  
+ F +49 (30) 285 34-109  
+ *www.boell.de*  
+ *info@boell.de* 
+
+ back to top 
+
+Idioma 1
+
+Idioma 2
+
+Idioma 3
+
+## Configuración de privacidad
+
+Antes de entrar en nuestra web tenemos una pregunta rápida que hacerle.
+
+¿Podemos recopilar datos básicos sobre cómo usted usa nuestra web para mejorar la experiencia del usuario para todos los visitantes? Los datos solo se utilizarán con fines analíticos.
+
+Ver la página de Política de Privacidad
