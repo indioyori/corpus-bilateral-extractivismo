@@ -1,0 +1,74 @@
+url: https://cartocritica.org.mx/2023/la-minas-de-mexico-y-su-gestion-ambiental/
+
+title: Las minas de México y su gestión ambiental
+
+description: 31 años de Ley Minera al servicio de las empresas: ¿Qué sabemos de la gestión ambiental de las operaciones mineras? Mapa dinámico sobre la minería y su gestión ambiental: Para acceder al mapa ingre…
+
+date: 2023-04-11T06:09:01Z
+
+# Las minas de México y su gestión ambiental
+
+11 abril, 2023 | Medio Ambiente, Minería | 0 
+
+**31 años de Ley Minera al servicio de las empresas: ¿Qué sabemos de la gestión ambiental de las operaciones mineras?**
+
+Mapa dinámico sobre la minería y su gestión ambiental:
+
+Para acceder al mapa ingresa aquí:  
+http://mineria.cartocritica.org.mx
+
+*   **Investigación identifica, una a una, las 97 minas metálicas a cielo abierto** y otras **152 minas metálicas subterráneas** que operan en México, ante la ausencia de una base de datos oficial que permita distinguirlas, caracterizarlas espacialmente y hacerles rendir cuentas.
+*   Este nuevo sistema de información geográfica identifica las áreas de operación de la minería metálica, no metálica, de carbón y de sal, y concentra la información dispersa de distintas fuentes. **Compila más de 100 mil registros** geográficos con información sobre la minería en México y su gestión ambiental.
+*   De las 249 operaciones mineras metálicas en México, **una proporción significativa no cumple con los requisitos básicos ambientales: 51% operan en acuíferos sin disponibilidad de agua,** 38% no tiene información deevaluaciones de impacto ambiental autorizadas, 23% sin información de depósitos de jales, 62% sin concesiones de agua, 72% sin permisos de descarga de aguas residuales, y el 55% nunca ha presentado un reporte de emisiones y contaminantes en 17 años.
+
+**Descarga aquí la presentación con los resultados:**
+
+CartoCrítica – Resultados análisis mineríaDescargar
+
+En México, no existe un sitio en donde podamos encontrar concentrada la información de las operaciones mineras y su gestión ambiental. La poca información oficial disponible sobre los proyectos mineros en operación está dispersa y es incompleta. La única información oficial precisa, desagregada y georreferenciada de la operación de las grandes minas en el país se limita a la base de datos de la Secretaría de Economía sobre concesiones mineras. Sin embargo, esta información no identifica, ni permite conocer la producción, extensión, minerales, técnicas ni ninguna otra información sobre la magnitud de las actividades mineras que ocurren en el país. No distingue si están operando o si simplemente utilizan las concesiones como elemento para la especulación financiera, actividad que es posible gracias a una vigencia de 50 años prorrogables por otros 50 años más de cada concesión minera.
+
+El sector minero no informa de manera pública ni desagregada, la cantidad de minerales que extrae por mina, planta de beneficio o empresa; no reporta cuántas hectáreas forestales fueron convertidas a tajos a cielo abierto y presas de lixiviados; y mucho menos, la cantidad de agua que utilizó, cuánta fue contaminada en sus procesos, ni cuánto pagó por ella. Identificar los proyectos mineros en operación es apenas el punto de inicio para lograr la gestión ambiental. Si no conocemos cuántas grandes minas operan en el país, ¿podremos efectivamente conocer cuántas cumplen con sus obligaciones de gestión ambiental? 
+
+Para dimensionar el impacto de las operaciones mineras en México, CartoCrítica, con el apoyo de la Fundación Heinrich Böll, NRGI, y PLANEAS–PRONACE Energía y Cambio Climático, se dio a la tarea de construir la Cartografía de las Operaciones Mineras en México. Esta base de datos espacial es única en México y permite identificar con precisión cartográfica la superficie de la operación de cada mina en el país, distinguiendo la actividad minera:
+
+| **Tipo**               | **Operaciones** | **Superficie (ha)** |
+| Carbón                 | 62              | 18,073.2            |
+| Metálica               | 249             | 79,606.1            |
+| No metálica            | 182             | 8,256.8             |
+| Salina                 | 38              | 56,022.0            |
+| Metálica (exploración) | 343             | 26,362.4            |
+| **Total**              | **874**         | **188,320**         |
+
+Así mismo, el sistema de información geográfica concentra más de 100 mil registros con información georreferenciada sobre la minería en México y su gestión ambiental. 
+
+Al analizar estos datos fue posible identificar que escondidas a plena vista, entre miles y miles de concesiones vigentes (la mayoría dedicadas a la especulación financiera) que operan 97 minas metálicas a cielo abierto y otras 152 minas subterráneas, sin estar registradas en una base de datos oficial, en datos abiertos, capaz de distinguirlas, caracterizarlas espacialmente y, sobre todo, hacerles rendir cuentas públicamente de su producción o de su gestión ambiental. Con esta información que se pone ahora a disposición de la ciudadanía, podrán iniciarse investigaciones, reportajes y estudios sobre los impactos ambientales, sociales o a la salud ligados a la actividad minera.
+
+Utilizando el mapa de la Cartografía de las Operaciones Mineras, CartoCrítica realizó un diagnóstico de disponibilidad de información de gestión ambiental sobre la operación de la minería metálica. La investigación realizada sobre las minas metálicas en México revela un panorama crítico respecto al cumplimiento administrativo de las regulaciones ambientales y la disponibilidad de información pública sobre la gestión ambiental. Los resultados muestran que una proporción significativa de las minas metálicas de México no cumple con los requisitos básicos en términos de evaluaciones de impacto ambiental (38% sin información o negada), depósitos de jales (23% sin información), concesiones de agua (62% sin concesión), permisos de descarga (72% sin permiso) y reportes en el Registro de Emisiones y Transferencia de Contaminantes -RETC- (55% sin un solo reporte en 17 años).
+
+Las minas de México y su gestión ambiental por CartoCrítica - Investigación, mapas y datos para la sociedad civil está licenciado bajo una Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional.
+
+Tags: gestión ambiental, mapa, minería, operaciones, proyecto
+
+### Deja una respuesta Cancelar la respuesta
+
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con \*
+
+Comment
+
+Name \*
+
+Email \*
+
+Website
+
+Recibir un correo electrónico con los siguientes comentarios a esta entrada.
+
+Recibir un correo electrónico con cada nueva entrada.
+
+Δ
+
+ 
+
+Este sitio usa Akismet para reducir el spam. Aprende cómo se procesan los datos de tus comentarios.
+
+loading
