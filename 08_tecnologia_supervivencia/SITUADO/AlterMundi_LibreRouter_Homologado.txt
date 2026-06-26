@@ -1,0 +1,10 @@
+url: https://altermundi.net/2019/09/12/librerouter-ya-esta-homologado-en-argentina/
+
+title: AlterMundi - Community Networks & Open Technology
+
+description: AlterMundi builds open hardware and libre software for community networks, helping communities deploy affordable, autonomous connectivity.
+
+# 404
+
+## This page could not be found.
+
