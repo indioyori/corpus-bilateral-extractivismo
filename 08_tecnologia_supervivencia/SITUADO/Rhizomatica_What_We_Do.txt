@@ -1,0 +1,107 @@
+url: https://www.rhizomatica.org/what-we-do/
+
+title: What We Do //  rhizomatica
+
+*   Home
+*   About
+*   Who We Are
+*   What We Do
+*   Resources
+*   Blog
+*   Contact
+
+# What We Do
+
+# What We Do
+
+## 
+
+### Rhizomatica supports communities who need or want to build and maintain self-governed and owned telecommunications and energy infrastructure.
+
+#### 
+
+#### We create and promote technologies that reinforce community values like cooperation, trust and shared commitment. In many instances, technology is a vehicle for introducing market logic and atomization in the Global South. We are aware different technologies play in this process, generally privileging individualization and consumption and so we strive to re-think innovation to better serve rural and indigenous communities, in ways that reinforce their values and ways of association.
+
+## Our projects
+
+#### We have four main areas of work
+
+ 
+
+*   **POLICY & REGULATORY ADVOCACY**: We create spaces within national and international telecommunications regulatory frameworks to allow for community-based communications initiatives to thrive and grow.
+
+ 
+
+*   **TECHNOLOGY DEVELOPMENT**: We integrate and develop free and open-source software to facilitate ease-of use for community or small-scale deployments of autonomous GSM networks and digital HF networks. Our aim is to package and document everything in order to be usable and suitable for non-technical users.
+
+ 
+
+*   **CAPACITY BUILDING AND IMPLEMENTATION:** We have created a proven model of how to make community-owned communication networks a sustainable endeavor for the community itself. This means they have the capital to pay for equipment and sufficient income to cover operating expenses and recoup their investment within a reasonable time frame. And we work directly with community members and social organizations to ensure they know how to operate, maintain and troubleshoot  equipment, as well as how to use the technology for community benefit.
+
+ 
+
+*   **RESEARCH AND KNOWLEDGE PRODUCTION**: We gather and produce knowledge that informs the other areas of our work in order to promote and strengthen community and indigenous communication and telecommunications processes around the world. Please visit our Center for Research in Technology and Community Knowledge (CITSAC)
+
+ 
+
+### Read about some of our past and current projects below
+
+## Community Cellular Telephony
+
+Read more 
+
+#### Telecomunicaciones Indigenas Comunitarias A.C.
+
+#### Our overall goal is to increase access to mobile telecommunications and associated services and benefits by creating community-owned and operated micro-telecommunications enterprises in rural Oaxaca, Mexico.
+
+Thanks to a variety of open-source efforts developed in the last few years (Osmocom, FreeSWITCH, etc), it has become technologically and economically feasible for a community or an individual to provide cellular service to thousands of people.
+
+Our approach combines regulatory reform, decentralization, community involvement, and the application of new technologies to connect people and communities to mobile services proven to increase access to information, development and, ultimately, quality of life.
+
+In Oaxaca, Mexico we helped create a regional community telecommunications cooperative that encompasses all of the member communities with mobile networks, and provides a platform for mobilization around regulatory issues, resource and profit-sharing, economies of scale for interconnection with existing telecommunications infrastructure (telephone and Internet), technical capacity building and maintenance. 
+
+This organization, called Telecomunicaciones Indigenas Comunitarias, is the first ever fully-licensed community owned and operated GSM network (at least that we know of), and coordinates all aspects of the physical installation of equipment, technology, etc. needed to meet the communications needs of specific communities, and ensure this equipment is regularly maintained by the organization and the community and that repairs are made in a timely and efficient fashion.
+
+## Digital over HF radio
+
+Read more 
+
+#### HERMES - High-frequency Emergency and Rural Multimedia Exchange System
+
+#### Over the years we have identified back-haul, the way data is moved from a remote site like a community network to the Internet or the public telephone network, as being one of the major challenges for community networks due to the cost and/or amount of intermediate infrastructure required. We are exited about HF or shortwave radio, using skywave propagation, as a potential way to dramatically reduce costs for back-haul, especially in very remote areas.
+
+To this end we started a new project called HERMES, which takes its inspiration from the messenger god (among his other talents), and is also an acronym for High-frequency Emergency and Rural Multimedia Exchange System. Read more about HERMES here
+
+## Regulatory reform
+
+Read more 
+
+#### ITU-D Recommendation 19 and implementation
+
+#### At Rhizomatica we believe that a telecommunications ecosystem that respects and upholds human rights, while clearly a governance issue, is also about how we as civil society impact upon the creation and operation of the infrastructure that underlies the Internet and cellular network that carry our information to and fro. This perspective has led us to advocate for spaces within regulatory frameworks at the national and international levels that facilitate and support small and local telcos and communities wishing to operate ICT services. This can mean access to funding, to radio spectrum or simply the right to exist.
+
+To this end, we have had an impactful engagement with the ITU around community networks and alternative ways of defining and creating communications infrastructure. Members of our team are uniquely positioned and have shown time and again an ability to work productively with the Mexican telco regulatory apparatus to push the issue of community ICT infrastructure both within Mexico and in the Americas as a whole.
+
+So far we’ve managed to help push through two pieces of telecoms regulations. One at ITU-D, a modification of existing Recommendation 19: Telecommunication for rural and remote areas to include stronger language around community networks and access to spectrum and funding.
+
+The second is a resolution called “Instrumentation of ITU­D Recommendation 19 for the Americas Region” which invites OAS/CITEL member states to take an active role in the implementation of the ITU­D Rec. 19 and promote coordinated actions for its implementation through.
+
+We are now working on the next stage of this strategic project to bring these oblique pieces of international regulation into a more tangible sphere and have been collaborating with regulators and community advocates in various Latin American countries to push for the creation of real­world, functioning examples of locally owned communications networks, be they pilots or something more substantial.
+
+## Capacity Building
+
+Read more 
+
+#### Techio Comunitario and Indigenous Network Technician training
+
+#### Techio Comunitario is a process that helps create paths towards technological autonomy that communities have decided to undertake, strengthening different technical and organizational capacities, as well as creating a technical community promoters’ network of people who exchange knowledge and experiences in order to build or consolidate communication media and telecommunications projects in their territories.
+
+The program is composed of a series of modules that combine technical topics (for example, basic electricity and electronics or the structure of communication networks) with social, sustainability, legal and ethical topics. In addition, those who participate can specialize in the use of specific technologies: broadcasting, community internet networks and community cell phone networks. The training methodologies include pedagogies derived from the ways of sharing knowledge of the Indigenous peoples of Mexico, popular education experiences and interaction created in societies of free knowledge.
+
+So far, two face-to-face editions have been been organized in Mexico; the first in 2016-  
+ 2017 and the second in 2018-2019. In each of them, the participants, women and men, attended a monthly face-to-face module in different communities of the Mexico. More than 50 promoters have graduated from seven states of Mexico from both editions.
+
+Based on this experience, other training processes have been developed, for example the Training Programme for Technical Promoters and Promoters in Telecommunications and Broadcasting in Indigenous Communities, developed in collaboration with the International Telecommunications Union (ITU). This program, aimed at Indigenous communities in Latin America, is made up of a series of five online modules and a training camp and face-to-face training. In the first edition of the program, 20 people from 11 countries in the region graduated. And we have organized two subsequent versions of the program with our partners, with over 60 additional graduates.
+
+BESsBESsBESsBESs
+
