@@ -1,0 +1,85 @@
+url: https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2025/
+
+title: Global Connectivity Report 2025
+
+description: Launching on 28 November 2025 at WTDC, the Global Connectivity Report 2025 provides a detailed assessment of the current state of connectivity around the world and showcases solutions and good practices to accelerate progress toward achieving universal and meaningful connectivity.
+
+# Global Connectivity
+
+Report 2025
+
+Read online Download the report
+
+Share this: 
+
+*   Description
+*   Details
+
+*The Global Connectivity Report 2025* provides a comprehensive assessment of the evolution of global connectivity, which has progressed from a scarce resource in 1994 to an essential pillar of daily life, with approximately 6 billion people estimated to be online by 2025. The report frames its analysis around the policy imperative of achieving universal and meaningful connectivity (UMC), defined by six interdependent dimensions: Quality, Availability, Affordability, Devices, Skills, and Security.
+
+The report highlights the benefits of digital transformation, while noting that progress is hampered by persistent divides across income, gender, age, and location, as well as by growing vulnerabilities associated with online risks, misinformation, and significant environmental costs.
+
+The publication provides in-depth analysis on overcoming core barriers such as high costs, lack of skills, and limited device access, offering evidence-based policy guidance on regulatory coherence, infrastructure resilience (including submarine cables and satellites), and the critical need to strengthen national data ecosystems for effective digital inclusion and policy-making.
+
+Watch Dr Cosmas Luckyson Zavazava, BDT Director, talk about the report.
+
+Visit the Trello board for infographics and additional social media assets.
+
+*Global Connectivity Report 2025*
+
+Copyright © ITU 2025 All rights reserved
+
+Permalink: https://www.itu.int/itu-d/reports/statistics/global-connectivity-report-2025/
+
+### Did you know?
+
+### 1.5 per cent
+
+The environmental footprint of digital technologies is substantial, with data centres already consuming about 1.5 per cent of global electricity.  
+  
+
+Read chapter 1 
+
+### 14 per cent
+
+In low-income countries the urban-rural divide is stark with only 14 per cent of rural residents online - just over one-third the rate in urban areas.  
+  
+
+Read chapter 2 
+
+### 99 per cent
+
+The “hidden” backbone of global data, submarine cables, carries over 99 per cent of all international data flows.  
+  
+ 
+
+Read chapter 3 
+
+### 40 per cent
+
+The median share of average monthly income required to buy 5 GB mobile broadband data in 2025 is 1.4 per cent. This is 40 per cent less than it was in 2013.  
+  
+ 
+
+Read chapter 4 
+
+### 30 percentage points
+
+Even among Internet users in high-income countries, significant divides persist, with the digital skills gap in basic problem solving between the most and least educated users sometimes exceeding 30 percentage points. 
+
+Read chapter 5 
+
+### 2 to 2.5 million USD
+
+The estimated cost of conducting a nationally representative ICT household survey of 15,000 households is approximately USD 2 to 2.5 million per country.  
+  
+ 
+
+Read chapter 6 
+
+### Track the digital transformation with the ITU DataHub
+
+The ITU DataHub features over 200 statistical indicators on digital connectivity, trust, markets, governance, sustainability, and affordability. The new data platform offers an intuitive, mobile-friendly interface complete with country and regional profiles and data tables, allowing users to quickly find, view, compare, and download statistics on all aspects of information and communication technologies. 
+
+Check out ITU DataHub
+
