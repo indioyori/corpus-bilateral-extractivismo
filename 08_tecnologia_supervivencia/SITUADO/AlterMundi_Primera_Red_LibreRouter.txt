@@ -1,0 +1,10 @@
+url: https://altermundi.net/investigaciones/altermundi-y-la-primera-red-comunitaria-de-internet-cien-por-ciento-librerouter/
+
+title: AlterMundi - Community Networks & Open Technology
+
+description: AlterMundi builds open hardware and libre software for community networks, helping communities deploy affordable, autonomous connectivity.
+
+# 404
+
+## This page could not be found.
+
