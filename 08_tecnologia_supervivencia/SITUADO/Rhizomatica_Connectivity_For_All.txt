@@ -1,0 +1,80 @@
+url: https://www.rhizomatica.org/connectivity-for-all-do-the-basics-still-apply/
+
+title: Connectivity for All: Do The Basics Still Apply? //  rhizomatica
+
+*   Home
+*   About
+*   Who We Are
+*   What We Do
+*   Resources
+*   Blog
+*   Contact
+
+# Connectivity for All: Do The Basics Still Apply?
+
+16 July 2019
+
+**By Erick Huerta Velázquez, Rhizomatica**
+
+*The following are remarks delivered at the 2019 ITU Global Symposium for Regulators*
+
+In the last ten years telecommunications technology has become more accessible and affordable. We can install a mobile network for $5,000 USD and a WiFi network for a tenth of that or even less. This has allowed new participants into the market, especially in unserved and underserved regions that have traditionally fallen under the banner of “market failure”—places too difficult or expensive to connect. But now we can see that this so called market failure was actually our failure to understand markets. 
+
+The supposed market failure at play is not absolute. Here we are talking about markets where small, medium and social enterprises, in the form of micro operators or community networks, can and do work really well. We have seen these networks flourish in rural and remote areas. We have simply failed to understand that there are different business models that are better suited to these areas.
+
+In terms of social policy and telecommunications regulation, a question emerges regarding this change in how we understand the market. Do we have regulation that allows these small, medium and social enterprises to participate in the market, as we have in other sectors of the economy?
+
+To answer this question we may need to answer these other questions first: 
+
+*   Can these kinds of networks/operators easily get a license? Or is it prohibitively complex or expensive for them to do so?
+
+*   Can these networks access spectrum on a fair basis? Must they compete in auction processes against large operators or are they forced to depend on operators good will to allow them to use their spectrum in areas not of their interest?
+
+*   What are the taxes and fees involved for people and enterprises willing to invest and develop networks in these areas?
+
+*   Are these networks able to receive support from Universal Service Funds?
+
+*   Is spectrum available to these types of actors or must they participate in auctions or pursue national licenses, which impede their participation?
+
+*   Is there a sector-specific policy that allocates resources for capacity building, technology development and research for small, medium and social enterprises?
+
+Countries that have addressed these policy and regulatory questions have seen positive outcomes in regards to bringing communication to previously unattended areas. Brazil, for instance, by eliminating the license requirements for operators with fewer than 5000 users and that use exempt technologies such as WiFi, has increased the provision of services in unattended areas. In the United States they have changed the rules of the Universal Service Fund1, so that municipalities, cooperatives, and Wireless ISP’s can participate. These small actions have increased participation and therefore diminished costs and increased the sustainability of networks in rural and remote areas. 
+
+One final example from Mexico where the regulator allocated 5 + 5 MHz of the GSM band for social operators, which has allowed an indigenous cooperative to bring mobile communications to communities with 200 to 2,500 inhabitants for less than $4.00 USD a month. This also inspired larger companies to partner with these new operators, providing access to backbone, numbering and satellite backhaul. In other words, a win-win environment is achieved with such policies. 
+
+The intrepid people attempting to provide themselves and their communities with basic connectivity services that no one else is providing, face major regulatory and legal barriers. Yet the social and economic cost of leaving people unconnected is substantial. Just think about all of the people that want to connect with their families, or to criticial medical and emergency services. 
+
+Conditions in the economic, technological and social realms are present to connect the unconnected. But are the regulatory conditions present as well? In some countries, people in rural areas are persecuted and prosecuted for building networks without a license. But obtaining a license it might take a year or more and a large amount of money. Or perhaps, in order to access frequencies for microwave links, they might be forced to participate in an auction, a cost that they cannot bear and a process they are likely barred from participating in anyway. 
+
+Connectivity is one of the SDGs and as such it is important to emphasize that the SDGs are primarily about poverty reduction, which is precisely where the role of small medium and social enterprises, such a small operators or community networks, are even more important:
+
+*   Resources stay in the community or at least in the region
+
+*   Local people are trained to sustain and develop the network, building local capacity
+
+*   It is easy for a network that is close to the people to develop services and applications according their needs
+
+Bringing connectivity should go further than just access and also look at how doing so can also spark and support local, collaborative approaches that share responsibilities and revenues. In this way we can have a better impact on poverty, because most of the resources generated by new connectivity services will continue to circulate locally and regionally. By promoting policy and regulation that favors the participation of small, medium and social enterprises, we reflect the distributed architecture of the Internet itself and avoid vertical integration.
+
+New solutions such as light licensing and spectrum sharing, combined with improvements to more traditional approaches like Universal Service Funds, or coverage obligations, are among the regulatory measures that regulators should implement to connect the unconnected. 
+
+* * *
+
+*1 For further information about improvements in regulation to increase connectivity through small operators and community networks see the Internet Society’s Report: Community Networks in Latin America: Challenges, Regulations and Solutions**.* 
+
+ Related News
+
+07 May 2026 
+
+## Rhizomatica releases Mercury, a fully open-source modem for data communications on HF
+
+Rhizomatica is pleased to officially launch Mercury, a completely open-source Digital Radio OFDM protocol for HF broadcast and peer-to-peer ARQ connec \[...\] 
+
+09 December 2023 
+
+## PUSH Services: Autoridades piden de Apple y Google datos sobre los usuarios de aplicaciones de mensajería
+
+Lo siguiente es una rápida traducción de https://netzpolitik.org/2023/push-dienste-behoerden-fragen-apple-und-google-nach-nutzern-von-messenger-apps \[...\] 
+
+BESsBESsBESsBESs
+
